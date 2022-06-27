@@ -8,10 +8,7 @@ app.use(express.json());
 app.use(express.urlencoded({ extended: true }));
 app.use(cors());
 
-
-
 app.use("/notify", require("./routes/notifyRoute"));
 // app.use("/user", require("./routes/usersRoute"));
-
 
 app.listen(PORT, () => console.log(`app listening on port: ${PORT}`));
