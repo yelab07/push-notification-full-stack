@@ -6,8 +6,9 @@
 - Yiley
 - Sergut
 
-- As a user - When I open the app I should be able to either login or register with the - - service. email && password
-  As a user - If I'v already registered, when I login I should see a form with a title and text input area. Under the form I should see a list of registered users (not including myself) as buttons.
+- As a user - When I open the app I should be able to either login or register with the - - service. email && password.
+
+- As a user - If I'v already registered, when I login I should see a form with a title and text input area. Under the form I should see a list of registered users (not including myself) as buttons.
 
 - As a user - I should type in a title and add some text. If I click on a User (from the buttons list) It should send a push notification to that User.
 
